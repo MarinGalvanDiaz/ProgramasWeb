@@ -1,0 +1,123 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: white;
+}
+
+header {
+    position: relative;
+    background: black;
+    height: 50px;
+}
+
+header img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 30px;
+}
+
+.menu {
+    position: absolute;
+    top: 15px;
+    left: 40%;
+    color: white;
+}
+.buttons1{
+    position: absolute;
+    left: 90%;
+}
+
+.title-container{
+    position: relative;
+    height: 70px;
+}
+.menu a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.title {
+    position: absolute;
+    margin: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.images-title{
+    position: relative;
+    left: 80%;
+}
+.season {
+    position: relative;
+    top: 80px;
+    left: 80%;
+
+}
+
+.season p {
+    margin: 0;
+    display: inline;
+}
+
+
+table {
+    position: relative;
+    width: 90%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+tr {
+    position: relative;
+    height: 100px;
+    border-bottom: 1px solid #ddd;
+}
+
+td {
+    position: relative;
+    padding: 10px;
+    vertical-align: middle;
+    border: none;
+}
+
+.date-box {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.date-box p {
+    margin: 0;
+}
+
+.race-info {
+    position: absolute;
+    top: 20px;
+    left: 20%;
+}
+
+.race-info p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.race-info a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+}
+
+.winner {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    text-align: center;
+}
+
+
