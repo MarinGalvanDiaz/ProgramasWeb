@@ -1,0 +1,117 @@
+:root{
+    --primary-100:#26A69A;
+    --primary-200:#408d86;
+    --primary-300:#cdfaf6;
+    --accent-100:#80CBC4;
+    --accent-200:#43A49B;
+    --text-100:#263339;
+    --text-200:#728f9e;
+    --bg-100:#E0F2F1;
+    --bg-200:#D0EBEA;
+    --bg-300:#FFFFFF;
+}
+
+body{
+    background-color: var(--bg-100);
+}
+
+#contenedor-main {
+    width: 100%;
+    height: 100%;
+    border: var(--primary-200);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;  /* <-- Cambiado aquí */
+    justify-content: center;
+    background-color: var(--bg-100);
+}
+
+.titulo{
+    text-align: center;
+    color: var(--text-100);
+    background: linear-gradient(90deg,rgba(38, 166, 154, 1) 0%, rgba(64, 141, 134, 1) 77%);
+    width: 80%;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px var(--text-200);
+}
+.imagen,.texto,.mapa,.video{
+
+    width: 40%;
+}
+.imagen{
+    background-color: var(--accent-200);
+    margin: 20px;
+    border-radius: 10px;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    box-shadow: 2px 2px 5px var(--text-200);
+}
+
+.imagen figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.imagen img {
+    width: 90%;
+    border-radius: 10px;
+}
+
+.imagen figcaption {
+    color: var(--text-100);
+    text-align: center;
+    margin-top: 8px;
+}
+
+.texto{
+    text-align: justify;
+    color: var(--text-100);
+    background-color: var(--bg-200);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px var(--text-200);
+}
+
+.mapa{
+    display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: var(--text-200);
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px var(--text-200);
+}
+.mapa iframe{
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: var(--accent-200);
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px var(--text-200);
+}
+
+.video iframe{
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
