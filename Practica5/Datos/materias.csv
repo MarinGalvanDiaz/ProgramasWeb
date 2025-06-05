@@ -1,0 +1,51 @@
+Nombre,Área,Semestre,Ciclo,Calificación,Propósito,Calidad
+Cálculo,Científica Básica,1,24-1,10,Soluciona problemas del área de la ingeniería a partir del cálculo diferencial y técnicas de integración.,5
+Análisis Vectorial,Científica Básica,1,24-1,9,"Resuelve problemas geométricos y físicos a partir del estudio de las propiedades de los vectores, las funciones vectoriales en el espacio tridimensional y los teoremas integrales de Gauss, Green y Stokes.",5
+Matemáticas Discretas,Científica Básica,1,24-1,10,Plantea algoritmos matemáticos y estructuras discretas con base en sus propiedades y argumentos válidos con lenguaje formal.,5
+Comunicación Oral y Escrita,Institucional,1,24-1,10,"Presenta discursos con base en la comunicación oral, escrita y su contexto.",5
+Fundamentos de Programación,Profesional,1,24-1,10,"Programa aplicaciones a partir de sentencias de control, funciones, apuntadores y archivos.",4
+Álgebra Líneal,Científica Básica,2,24-2,10,"Aplica los métodos de eliminación de Gauss-Jordan matricial con pivoteo a partir de las transformaciones lineales, los espacios vectoriales, valores y vectores propios.",5
+Cálculo Aplicado,Científica Básica,2,24-2,10,Resuelve problemas de ingeniería a partir del cálculo diferencial e integral.,5
+Mecánica y Electromagnetismo,Científica Básica,2,24-2,10,Aplica la mecánica y el electromagnetismo a problemas teóricos a partir de sus principios teóricos básicos.,4
+"Ingeniería, Ética y Sociedad",Institucional,2,24-2,10,"Explica el papel de la ingeniería en la sociedad a partir de la historia del conocimiento humano, su relación con la ciencia y tecnología, sus implicaciones éticas y el impacto ambiental.",5
+Fundamentos Económicos,Profesional,2,24-2,9,Analiza la toma de decisiones económicas con base en su entorno nacional e internacional.,5
+Algoritmos y Estructuras de Datos,Profesional,2,24-2,10,Utiliza algoritmos y estructuras de datos con base en sus órdenes de complejidad y características.,5
+Ecuaciones Diferenciales,Científica Básica,3,25-1,10,Resuelve problemas de circuitos eléctricos y de otros sistemas dinámicos a partir de ecuaciones diferenciales ordinarias.,5
+Circuitos Eléctricos,Profesional,3,25-1,10,"Resuelve problemas de circuitos eléctricos de acuerdo a las técnicas de análisis, teoremas de aplicación y mediciones en laboratorio.",4
+Fundamentos de Diseño Digital,Profesional,3,25-1,10,"Implementa sistemas lógicos combinacionales y de memoria a partir de su representación Booleana, los lenguajes de descripción de hardware y dispositivos reconfigurables",5
+Bases de Datos,Profesional,3,25-1,9,Implementa bases de datos a partir de los diferentes modelos de datos.,4
+Finanzas Empresariales,Profesional,3,25-1,10,Utiliza las herramientas matemáticas y financieras a partir de la información generada en la empresa.,5
+Paradigmas de Programación,Profesional,3,25-1,10,Crea soluciones computacionales con base en los fundamentos y técnicas de diferentes lenguajes de programación y sus paradigmas.,5
+Análisis y Diseño de Algortimos,Profesional,3,25-1,10,Evalúa la resolución de problemas computacionales con base en las técnicas de análisis de complejidad y las estrategias de diseño de algoritmos.,5
+Probabilidad y Estadística,Científica Básica,4,25-2,Pendiente,Analiza matemáticamente los problemas aleatorios y sus resultados a partir de los elementos de probabilidad.,Pendiente
+Matemáticas Avanzadas para la Ingeniería,Científica Básica,4,25-2,Pendiente,Obtiene las bases matemáticas de la teoría de variable compleja y el análisis de Fourier a partir de teoremas y propiedades fundamentales.,Pendiente
+Electrónica Analógica,Profesional,4,25-2,Pendiente,"Resuelve circuitos con dispositivos electrónicos con base en sus características eléctricas, sus aplicaciones y las leyes que los fundamentan.",Pendiente
+Diseño de Sistemas Digitales,Profesional,4,25-2,Pendiente,Diseña sistemas digitales secuenciales y de memoria a partir de máquinas deterministas y lenguajes de descripción de hardware.,Pendiente
+Tecnologias para el desarrollo de Aplicaciones Web,Profesional,4,25-2,Pendiente,"Desarrolla aplicaciones Web con base en las tecnologías HTML, XML, Java, JavaScript, AJAX, un framework JavaScript y la conexión a bases de datos.",Pendiente
+Sistemas Operativos,Profesional,4,25-2,Pendiente,Propone soluciones a las necesidades de sistemas computacionales actuales a partir del funcionamiento del sistema operativo.,Pendiente
+Teoría de la Computación,Científica Básica,4,25-2,Pendiente,"Construye soluciones a problemas computacionales con base en los modelos de cómputo para lenguajes regulares, lenguajes independientes del contexto y la noción de computabilidad. ",Pendiente
+Procesamiento Digital de Señales,Profesional,5,26-1,Pendiente,Diseña aplicaciones eficientes en el procesamiento digital de señales en tiempo y frecuencia a partir de la teoría de análisis de señales y sistemas.,Pendiente
+Instumentación y Control,Profesional,5,26-1,Pendiente,"Construye sistemas de medición y control a partir de sensores, acondicionamiento e instrumentación electrónica.",Pendiente
+Arquitectura de Computadoras,Profesional,5,26-1,Pendiente,Implementa un procesador de arquitectura RISC con base en un lenguaje de descripción de hardware (HDL) y dispositivos reconfigurables del tipo FPGA.,Pendiente
+Análisis y Diseño de Sistemas,Profesional,5,26-1,Pendiente,Desarrolla un sistema de cómputo con base en el análisis de requerimientos y técnicas de diseño.,Pendiente
+Formulación y Evaluación de Proyectos Informáticos,Profesional,5,26-1,Pendiente,"Evalúa proyectos informáticos a partir de su entorno, fases de formulación, innovación, gestión y viabilidad financiera.",Pendiente
+Compiladores,Profesional,5,26-1,Pendiente,Desarrolla un compilador con base en el uso de generadores de analizadores léxicos y sintácticos e infraestructuras de desarrollo de compiladores.,Pendiente
+Redes de Computadoras,Profesional,5,26-1,Pendiente,"Diseña las topologías lógica y física de una red de área local a partir de sus fundamentos, técnicas de transmisión de datos, capas de acceso a la red, Internet y transporte.",Pendiente
+Sistemas en Chip,Profesional,6,26-2,Pendiente,"Desarrolla aplicaciones embebidas y de procesamiento digital de señales a partir de los diversos recursos periféricos de un sistema en chip, lenguaje ensamblador y un lenguaje de alto nivel. ",Pendiente
+Genetic Algoritms,Profesional,6,26-2,Pendiente,,Pendiente
+Machine Learning,Profesional,6,26-2,Pendiente,,Pendiente
+Métodos Cuantitativos para la Toma de Decisiones,Científica Básica,6,26-2,Pendiente,"Desarrolla planes de acción relacionados con el área de sistemas computacionales en cualquier giro de empresa, a partir de la optimización de los recursos, el uso de la metodología de métodos cuantitativos, criterios de sustentabilidad, e indicadores de toma de decisiones.",Pendiente
+Ingeniería de Software,Profesional,6,26-2,Pendiente,Elabora un proyecto de software con base en una metodología de ingeniería de software. ,Pendiente
+Inteligencia Artificial,Profesional,6,26-2,Pendiente,"Desarrolla sistemas inteligentes a partir de algoritmos de aprendizaje, modelos de representación de conocimiento y el aprendizaje de máquina.",Pendiente
+Aplicaciones para Comunicaciones en Red,Profesional,6,26-2,Pendiente,"Desarrolla aplicaciones de red, con base en interfaces de programación y arquitectura de comunicaciones, con alto nivel de calidad y eficiencia.",Pendiente
+Desarrollo de Aplicaciones Móviles Nativas,Terminal y de integración,7,27-1,Pendiente,"Desarrolla aplicaciones móviles nativas escalables, seguras y confiables con base en los componentes de la plataforma de desarrollo Android alimentada por fuentes de datos locales y remotos.",Pendiente
+Bioinformatics,Profesional,7,27-1,Pendiente,,Pendiente
+Image Analysis,Profesional,7,27-1,Pendiente,,Pendiente
+Trabajo Terminal 1,Profesional,7,27-1,Pendiente,Desarrolla la primera fase de un proyecto científico o tecnológico en cómputo viable y factible con base en metodologías y técnicas de desarrollo de sistemas.,Pendiente
+Sistemas Distribuidos,Terminal y de integración,7,27-1,Pendiente,Diseña soluciones tecnológicas confiables y escalables con base en servicios basados en cómputo en la nube.,Pendiente
+Administración de Servicios en Red,Profesional,7,27-1,Pendiente,"Implementa servicios de red de computadoras, con base en las mejores prácticas de administración y monitorización.",Pendiente
+Estancia Profesional,Terminal y de integración,8,27-2,Pendiente,,Pendiente
+Desarrollo de Habilidades Sociales para la Alta Dirección,Terminal y de integración,8,27-2,Pendiente,"Desarrolla habilidades personales, sociales y directivas en la integración de equipos directivos, con base en una visión estratégica de liderazgo y de toma de decisiones. ",Pendiente
+Trabajo Terminal 2,Profesional,8,27-2,Pendiente,"Implementa un proyecto científico o tecnológico en cómputo, con base en técnicas y herramientas de desarrollo, y en la documentación sistemática.",Pendiente
+Gestión Empresarial,Terminal y de integración,8,27-2,Pendiente,Gestiona organizaciones de innovación tecnológica con base en las competencias gerenciales.,Pendiente
+Liderazgo Personal,Institucional,8,27-2,Pendiente,"Evalúa el desarrollo personal en una organización, con base en los principios del liderazgo personal y social. ",Pendiente
