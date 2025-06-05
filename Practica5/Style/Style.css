@@ -1,5 +1,5 @@
-:root{
-    /* CSS HEX */
+
+:root {
     --federal-blue: #03045eff;
     --marian-blue: #023e8aff;
     --honolulu-blue: #0077b6ff;
@@ -9,16 +9,102 @@
     --non-photo-blue: #90e0efff;
     --non-photo-blue-2: #ade8f4ff;
     --light-cyan: #caf0f8ff;
+    --titanium-white: #ffffff;
 }
 
-body{
+body {
+    font-family: Arial, sans-serif;
     background-color: var(--light-cyan);
-}
-
-.contenedor{
-    background-color: var(--non-photo-blue);
+    margin: 2rem;
     display: flex;
-    width: 100%;
-    height: 100%;
-
+    flex-direction: column;
+    align-items: center;
 }
+
+.global-info {
+    background-color: var(--federal-blue);
+    color: var(--titanium-white);
+    padding: 1rem;
+    margin-right: 50px;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    width: 70%;
+    box-shadow: 10px 10px 10px var(--marian-blue);
+}
+
+.global-info .promedio{
+    color: var(--titanium-white);
+    font-weight: bold;
+}
+
+.global-info h1{
+    color: var(--titanium-white);
+    font-size: 60px;
+}
+
+.global-info p{
+    color: var(--titanium-white);
+    font-size: 30px;
+}
+
+.areas-container {
+    column-count: 2;
+    column-gap: 2rem;
+}
+
+.area {
+    background-color: var(--honolulu-blue);
+    color: var(--titanium-white);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    break-inside: avoid;
+    box-shadow: 10px 10px 10px var(--blue-green);
+}
+
+.area.destacada {
+    background-color: var(--federal-blue);
+    font-size: 1.1rem;
+    box-shadow: 5px 5px 10px var(--marian-blue);
+}
+
+.area h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.area.centrada {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    box-shadow: 8px 8px 10px var(--blue-green);
+}
+.materia {
+    background-color: var(--non-photo-blue);
+    color: black;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.materia .nombre {
+    font-weight: bold;
+    display: inline-block;
+}
+
+.materia .calificacion {
+    float: right;
+    font-weight: bold;
+}
+
+.materia .detalle {
+    font-size: 0.85rem;
+    margin-top: 0.2rem;
+}
+
