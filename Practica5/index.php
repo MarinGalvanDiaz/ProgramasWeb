@@ -6,14 +6,14 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="Style/Style.css">
-    <title>Document</title>
+    <title>Kardex</title>
 </head>
 <body>
 <div class="contenedor">
     <?php
-    $ruta = "/var/www/";
+    $ruta = "";
 
-    $archivo2 = 'Data/Materias.csv';
+    $archivo2 = 'Datos/Materias.csv';
 
     $archivo = $ruta . $archivo2;
 
