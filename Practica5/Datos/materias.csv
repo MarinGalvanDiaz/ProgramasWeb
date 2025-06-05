@@ -32,15 +32,18 @@ Formulación y Evaluación de Proyectos Informáticos,Profesional,5,26-1,Pendien
 Compiladores,Profesional,5,26-1,Pendiente,Desarrolla un compilador con base en el uso de generadores de analizadores léxicos y sintácticos e infraestructuras de desarrollo de compiladores.,Pendiente
 Redes de Computadoras,Profesional,5,26-1,Pendiente,"Diseña las topologías lógica y física de una red de área local a partir de sus fundamentos, técnicas de transmisión de datos, capas de acceso a la red, Internet y transporte.",Pendiente
 Sistemas en Chip,Profesional,6,26-2,Pendiente,"Desarrolla aplicaciones embebidas y de procesamiento digital de señales a partir de los diversos recursos periféricos de un sistema en chip, lenguaje ensamblador y un lenguaje de alto nivel. ",Pendiente
-Genetic Algoritms,Profesional,6,26-2,Pendiente,,Pendiente
-Machine Learning,Profesional,6,26-2,Pendiente,,Pendiente
+Genetic Algoritms,Profesional,6,26-2,Pendiente,"Evalúa la solución a problemas computables con base en los algoritmos genéticos.",Pendiente
+Machine Learning,Profesional,6,26-2,Pendiente,"Desarrolla aplicaciones de aprendizaje automático con base en los clasificadores lineales, no lineales y clustering.",Pendiente
 Métodos Cuantitativos para la Toma de Decisiones,Científica Básica,6,26-2,Pendiente,"Desarrolla planes de acción relacionados con el área de sistemas computacionales en cualquier giro de empresa, a partir de la optimización de los recursos, el uso de la metodología de métodos cuantitativos, criterios de sustentabilidad, e indicadores de toma de decisiones.",Pendiente
 Ingeniería de Software,Profesional,6,26-2,Pendiente,Elabora un proyecto de software con base en una metodología de ingeniería de software. ,Pendiente
 Inteligencia Artificial,Profesional,6,26-2,Pendiente,"Desarrolla sistemas inteligentes a partir de algoritmos de aprendizaje, modelos de representación de conocimiento y el aprendizaje de máquina.",Pendiente
 Aplicaciones para Comunicaciones en Red,Profesional,6,26-2,Pendiente,"Desarrolla aplicaciones de red, con base en interfaces de programación y arquitectura de comunicaciones, con alto nivel de calidad y eficiencia.",Pendiente
 Desarrollo de Aplicaciones Móviles Nativas,Terminal y de integración,7,27-1,Pendiente,"Desarrolla aplicaciones móviles nativas escalables, seguras y confiables con base en los componentes de la plataforma de desarrollo Android alimentada por fuentes de datos locales y remotos.",Pendiente
-Bioinformatics,Profesional,7,27-1,Pendiente,,Pendiente
-Image Analysis,Profesional,7,27-1,Pendiente,,Pendiente
+Bioinformatics,Profesional,7,27-1,Pendiente,"Construye aplicaciones de bioinformática con base en el análisis de secuencias biológicas y la representación
+computacional del flujo de información de cadenas peptídicas a estructura tridimensional con función biológica y la
+simulación de su dinámica.",Pendiente
+Image Analysis,Profesional,7,27-1,Pendiente,"Implementa soluciones a problemas de procesamiento, extracción e interpretación de imágenes digitales con base
+en técnicas de análisis de imágenes.",Pendiente
 Trabajo Terminal 1,Profesional,7,27-1,Pendiente,Desarrolla la primera fase de un proyecto científico o tecnológico en cómputo viable y factible con base en metodologías y técnicas de desarrollo de sistemas.,Pendiente
 Sistemas Distribuidos,Terminal y de integración,7,27-1,Pendiente,Diseña soluciones tecnológicas confiables y escalables con base en servicios basados en cómputo en la nube.,Pendiente
 Administración de Servicios en Red,Profesional,7,27-1,Pendiente,"Implementa servicios de red de computadoras, con base en las mejores prácticas de administración y monitorización.",Pendiente

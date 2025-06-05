@@ -22,19 +22,65 @@ body {
 }
 
 .global-info {
+
     background-color: var(--federal-blue);
     color: var(--titanium-white);
     padding: 1rem;
     margin-right: 50px;
     border-radius: 1rem;
     margin-bottom: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.5fr 0.6fr 1.6fr 1.3fr;
+    grid-auto-columns: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+    "Titulo Titulo"
+    "Nombre Nombre"
+    "Promedio Materias"
+    "Fechas Fechas";
     width: 70%;
     box-shadow: 10px 10px 10px var(--marian-blue);
+}
+.iglobal- {
+}
+
+.Titulo {
+    grid-area: Titulo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Nombre {
+    grid-area: Nombre;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Promedio {
+    grid-area: Promedio;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Materias {
+    grid-area: Materias;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Fechas {
+    grid-area: Fechas;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .global-info .promedio{
@@ -49,7 +95,7 @@ body {
 
 .global-info p{
     color: var(--titanium-white);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .areas-container {
