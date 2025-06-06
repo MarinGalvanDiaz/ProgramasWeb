@@ -7,7 +7,7 @@
     <link rel="icon" href="Images/EscudoESCOM.png">
     <?php
     require_once 'Scripts/funciones.php';
-    $ruta1 = 'Datos/';
+    $ruta1 = '/hosting/galvmari/home/Datos/';
     $ruta2 = 'materias.csv';
     $rutafin = $ruta1 . $ruta2;
     $materias = cargarMateriasDesdeCSV($rutafin);
